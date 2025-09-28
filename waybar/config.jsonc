@@ -20,12 +20,18 @@
         "network",
         "cpu",
         "memory",
+	"disk",
         "temperature",
         "keyboard-state",
         "clock",
         "tray",
         "custom/power"
     ],
+    "disk": {
+        "interval": 30,
+        "format": "{percentage_used}% 󰋊",
+        "path": "/"
+    },
     "keyboard-state": {
         "numlock": true,
         "capslock": true,
