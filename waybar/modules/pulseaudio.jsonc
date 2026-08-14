@@ -1,0 +1,23 @@
+{
+    "pulseaudio#output": {
+        "format": "{icon} ",
+        "format-muted": "",
+        "format-icons": {
+            "default": ["", "", ""]
+        },
+        "on-click": "pavucontrol",
+        "tooltip": true,
+        "tooltip-format": "{volume}% {desc}",
+        "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle"
+    },
+    "pulseaudio#input": {
+        "format": "{format_source}",
+        "format-source": "",
+        "format-source-muted": "",
+        "on-click": "pavucontrol",
+        "tooltip": false,
+        "on-click": "pactl set-source-mute @DEFAULT_SOURCE@ toggle",
+        "on-scroll-up": "",
+        "on-scroll-down": ""
+    },
+}

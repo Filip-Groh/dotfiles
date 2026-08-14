@@ -1,0 +1,8 @@
+{
+    "disk": {
+        "format": "󰋊  {percentage_used}%",
+        "path": "/",
+        "tooltip": "true",
+        "tooltip-format": "{used} / {total} ({free} free)"
+    }
+}

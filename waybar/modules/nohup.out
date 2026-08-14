@@ -1,0 +1,232 @@
+[2025-09-29 21:17:52.368] [info] Using configuration file /home/arch/.config/waybar/config.jsonc
+[2025-09-29 21:17:52.368] [info] Including resource file: ~/.config/waybar/modules/disk.jsonc
+[2025-09-29 21:17:52.368] [info] Including resource file: ~/.config/waybar/modules/pulseaudio.jsonc
+[2025-09-29 21:17:52.371] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-09-29 21:17:52.371] [info] Using CSS file /home/arch/.config/waybar/style.css
+[2025-09-29 21:17:52.375] [info] Hyprland IPC starting
+[2025-09-29 21:17:52.375] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:17:52.376] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:17:52.376] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:17:52.378] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:17:52.380] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:17:52.396] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:17:52.397] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:17:52.398] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:17:52.400] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:17:52.403] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:17:52.414] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:17:52.415] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:17:52.415] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:17:52.416] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:17:52.420] [error] media stopped unexpectedly, is it endless?
+
+** (waybar:25502): WARNING **: 21:17:52.634: Status Notifier Item with bus name ':1.15' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-09-29 21:17:52.828] [info] Bar configured (width: 1920, height: 30) for output: HDMI-A-1
+[2025-09-29 21:17:52.828] [info] Bar configured (width: 2560, height: 30) for output: DP-1
+[2025-09-29 21:17:52.828] [info] Bar configured (width: 1360, height: 30) for output: DP-3
+[2025-09-29 21:19:19.515] [info] Using configuration file /home/arch/.config/waybar/config.jsonc
+[2025-09-29 21:19:19.515] [info] Including resource file: ~/.config/waybar/modules/disk.jsonc
+[2025-09-29 21:19:19.515] [info] Including resource file: ~/.config/waybar/modules/pulseaudio.jsonc
+[2025-09-29 21:19:19.515] [info] Including resource file: ~/.config/waybar/modules/clock.jsonc
+[2025-09-29 21:19:19.516] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-09-29 21:19:19.516] [info] Using CSS file /home/arch/.config/waybar/style.css
+[2025-09-29 21:19:19.530] [info] Hyprland IPC starting
+[2025-09-29 21:19:19.530] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:19:19.531] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:19:19.531] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:19:19.533] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:19:19.536] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:19:19.553] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:19:19.554] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:19:19.554] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:19:19.556] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:19:19.560] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:19:19.561] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:19:19.561] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:19:19.561] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:19:19.563] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:19:19.567] [error] media stopped unexpectedly, is it endless?
+
+** (waybar:25685): WARNING **: 21:19:19.785: Status Notifier Item with bus name ':1.15' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-09-29 21:19:19.971] [info] Bar configured (width: 1920, height: 30) for output: HDMI-A-1
+[2025-09-29 21:19:19.971] [info] Bar configured (width: 2560, height: 30) for output: DP-1
+[2025-09-29 21:19:19.971] [info] Bar configured (width: 1360, height: 30) for output: DP-3
+[2025-09-29 21:26:37.381] [info] Using configuration file /home/arch/.config/waybar/config.jsonc
+[2025-09-29 21:26:37.381] [info] Including resource file: ~/.config/waybar/modules/disk.jsonc
+[2025-09-29 21:26:37.381] [info] Including resource file: ~/.config/waybar/modules/pulseaudio.jsonc
+[2025-09-29 21:26:37.381] [info] Including resource file: ~/.config/waybar/modules/clock.jsonc
+[2025-09-29 21:26:37.381] [info] Including resource file: ~/.config/waybar/modules/tray.jsonc
+[2025-09-29 21:26:37.381] [info] Including resource file: ~/.config/waybar/modules/custom/power.jsonc
+[2025-09-29 21:26:37.382] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-09-29 21:26:37.382] [info] Using CSS file /home/arch/.config/waybar/style.css
+[2025-09-29 21:26:37.386] [info] Hyprland IPC starting
+[2025-09-29 21:26:37.387] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:26:37.387] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:26:37.387] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:26:37.389] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:26:37.392] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:26:37.405] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:26:37.406] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:26:37.406] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:26:37.408] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:26:37.411] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:26:37.413] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:26:37.413] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:26:37.413] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:26:37.416] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:26:37.420] [error] media stopped unexpectedly, is it endless?
+
+** (waybar:26373): WARNING **: 21:26:37.535: Status Notifier Item with bus name ':1.15' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-09-29 21:26:37.823] [info] Bar configured (width: 1920, height: 30) for output: HDMI-A-1
+[2025-09-29 21:26:37.823] [info] Bar configured (width: 2560, height: 30) for output: DP-1
+[2025-09-29 21:26:37.823] [info] Bar configured (width: 1360, height: 30) for output: DP-3
+[2025-09-29 21:28:23.994] [info] Using configuration file /home/arch/.config/waybar/config.jsonc
+[2025-09-29 21:28:23.994] [info] Including resource file: ~/.config/waybar/modules/disk.jsonc
+[2025-09-29 21:28:23.994] [info] Including resource file: ~/.config/waybar/modules/pulseaudio.jsonc
+[2025-09-29 21:28:23.994] [info] Including resource file: ~/.config/waybar/modules/clock.jsonc
+[2025-09-29 21:28:23.994] [info] Including resource file: ~/.config/waybar/modules/tray.jsonc
+[2025-09-29 21:28:23.994] [info] Including resource file: ~/.config/waybar/modules/cpu.jsonc
+[2025-09-29 21:28:23.994] [info] Including resource file: ~/.config/waybar/modules/custom/power.jsonc
+[2025-09-29 21:28:23.995] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-09-29 21:28:23.995] [info] Using CSS file /home/arch/.config/waybar/style.css
+[2025-09-29 21:28:24.000] [info] Hyprland IPC starting
+[2025-09-29 21:28:24.001] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:24.001] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:24.001] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:24.005] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:24.008] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:28:24.025] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:24.027] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:24.027] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:24.030] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:24.034] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:28:24.039] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:24.040] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:24.040] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:24.042] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:24.046] [error] media stopped unexpectedly, is it endless?
+
+** (waybar:26626): WARNING **: 21:28:24.158: Status Notifier Item with bus name ':1.15' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-09-29 21:28:24.460] [info] Bar configured (width: 1920, height: 30) for output: HDMI-A-1
+[2025-09-29 21:28:24.461] [info] Bar configured (width: 2560, height: 30) for output: DP-1
+[2025-09-29 21:28:24.461] [info] Bar configured (width: 1360, height: 30) for output: DP-3
+[2025-09-29 21:28:26.431] [info] Using configuration file /home/arch/.config/waybar/config.jsonc
+[2025-09-29 21:28:26.431] [info] Including resource file: ~/.config/waybar/modules/disk.jsonc
+[2025-09-29 21:28:26.431] [info] Including resource file: ~/.config/waybar/modules/pulseaudio.jsonc
+[2025-09-29 21:28:26.431] [info] Including resource file: ~/.config/waybar/modules/clock.jsonc
+[2025-09-29 21:28:26.431] [info] Including resource file: ~/.config/waybar/modules/tray.jsonc
+[2025-09-29 21:28:26.431] [info] Including resource file: ~/.config/waybar/modules/cpu.jsonc
+[2025-09-29 21:28:26.431] [info] Including resource file: ~/.config/waybar/modules/custom/power.jsonc
+[2025-09-29 21:28:26.432] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-09-29 21:28:26.432] [info] Using CSS file /home/arch/.config/waybar/style.css
+[2025-09-29 21:28:26.438] [info] Hyprland IPC starting
+[2025-09-29 21:28:26.442] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:26.442] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:26.442] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:26.447] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:26.450] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:28:26.463] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:26.464] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:26.464] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:26.466] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:26.469] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:28:26.472] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:26.475] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:26.475] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:26.477] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:26.481] [error] media stopped unexpectedly, is it endless?
+
+** (waybar:26733): WARNING **: 21:28:26.593: Status Notifier Item with bus name ':1.15' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-09-29 21:28:26.896] [info] Bar configured (width: 1920, height: 30) for output: HDMI-A-1
+[2025-09-29 21:28:26.897] [info] Bar configured (width: 2560, height: 30) for output: DP-1
+[2025-09-29 21:28:26.897] [info] Bar configured (width: 1360, height: 30) for output: DP-3
+[2025-09-29 21:28:29.177] [info] Using configuration file /home/arch/.config/waybar/config.jsonc
+[2025-09-29 21:28:29.177] [info] Including resource file: ~/.config/waybar/modules/disk.jsonc
+[2025-09-29 21:28:29.177] [info] Including resource file: ~/.config/waybar/modules/pulseaudio.jsonc
+[2025-09-29 21:28:29.177] [info] Including resource file: ~/.config/waybar/modules/clock.jsonc
+[2025-09-29 21:28:29.177] [info] Including resource file: ~/.config/waybar/modules/tray.jsonc
+[2025-09-29 21:28:29.177] [info] Including resource file: ~/.config/waybar/modules/cpu.jsonc
+[2025-09-29 21:28:29.177] [info] Including resource file: ~/.config/waybar/modules/custom/power.jsonc
+[2025-09-29 21:28:29.178] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-09-29 21:28:29.178] [info] Using CSS file /home/arch/.config/waybar/style.css
+[2025-09-29 21:28:29.182] [info] Hyprland IPC starting
+[2025-09-29 21:28:29.183] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:29.183] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:29.183] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:29.186] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:29.189] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:28:29.204] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:29.204] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:29.204] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:29.207] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:29.210] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:28:29.222] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:29.222] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:29.222] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:29.224] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:29.228] [error] media stopped unexpectedly, is it endless?
+
+** (waybar:26837): WARNING **: 21:28:29.340: Status Notifier Item with bus name ':1.15' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-09-29 21:28:29.626] [info] Bar configured (width: 1920, height: 30) for output: HDMI-A-1
+[2025-09-29 21:28:29.626] [info] Bar configured (width: 2560, height: 30) for output: DP-1
+[2025-09-29 21:28:29.626] [info] Bar configured (width: 1360, height: 30) for output: DP-3
+[2025-09-29 21:28:33.230] [info] Using configuration file /home/arch/.config/waybar/config.jsonc
+[2025-09-29 21:28:33.230] [info] Including resource file: ~/.config/waybar/modules/disk.jsonc
+[2025-09-29 21:28:33.230] [info] Including resource file: ~/.config/waybar/modules/pulseaudio.jsonc
+[2025-09-29 21:28:33.230] [info] Including resource file: ~/.config/waybar/modules/clock.jsonc
+[2025-09-29 21:28:33.230] [info] Including resource file: ~/.config/waybar/modules/tray.jsonc
+[2025-09-29 21:28:33.230] [info] Including resource file: ~/.config/waybar/modules/cpu.jsonc
+[2025-09-29 21:28:33.230] [info] Including resource file: ~/.config/waybar/modules/custom/power.jsonc
+[2025-09-29 21:28:33.231] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-09-29 21:28:33.231] [info] Using CSS file /home/arch/.config/waybar/style.css
+[2025-09-29 21:28:33.237] [info] Hyprland IPC starting
+[2025-09-29 21:28:33.238] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:33.238] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:33.238] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:33.242] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:33.247] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:28:33.259] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:33.260] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:33.260] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:33.263] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:33.267] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:33.267] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:28:33.267] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:33.267] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:33.269] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:33.273] [error] media stopped unexpectedly, is it endless?
+
+** (waybar:26941): WARNING **: 21:28:33.388: Status Notifier Item with bus name ':1.15' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-09-29 21:28:33.676] [info] Bar configured (width: 1920, height: 30) for output: HDMI-A-1
+[2025-09-29 21:28:33.676] [info] Bar configured (width: 2560, height: 30) for output: DP-1
+[2025-09-29 21:28:33.676] [info] Bar configured (width: 1360, height: 30) for output: DP-3
+[2025-09-29 21:28:40.666] [info] Using configuration file /home/arch/.config/waybar/config.jsonc
+[2025-09-29 21:28:40.666] [info] Including resource file: ~/.config/waybar/modules/disk.jsonc
+[2025-09-29 21:28:40.666] [info] Including resource file: ~/.config/waybar/modules/pulseaudio.jsonc
+[2025-09-29 21:28:40.666] [info] Including resource file: ~/.config/waybar/modules/clock.jsonc
+[2025-09-29 21:28:40.666] [info] Including resource file: ~/.config/waybar/modules/tray.jsonc
+[2025-09-29 21:28:40.667] [info] Including resource file: ~/.config/waybar/modules/cpu.jsonc
+[2025-09-29 21:28:40.667] [info] Including resource file: ~/.config/waybar/modules/custom/power.jsonc
+[2025-09-29 21:28:40.668] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-09-29 21:28:40.668] [info] Using CSS file /home/arch/.config/waybar/style.css
+[2025-09-29 21:28:40.672] [info] Hyprland IPC starting
+[2025-09-29 21:28:40.673] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:40.673] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:40.673] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:40.676] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:40.679] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:28:40.692] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:40.694] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:40.694] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:40.696] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:40.699] [error] media stopped unexpectedly, is it endless?
+[2025-09-29 21:28:40.703] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-29 21:28:40.703] [warning] module hyprland/mode: Unknown module: hyprland/mode
+[2025-09-29 21:28:40.703] [warning] module hyprland/scratchpad: Unknown module: hyprland/scratchpad
+[2025-09-29 21:28:40.706] [warning] 'swap-icon-label' must be a bool.
+[2025-09-29 21:28:40.710] [error] media stopped unexpectedly, is it endless?
+
+** (waybar:27046): WARNING **: 21:28:40.820: Status Notifier Item with bus name ':1.15' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-09-29 21:28:41.115] [info] Bar configured (width: 1920, height: 30) for output: HDMI-A-1
+[2025-09-29 21:28:41.115] [info] Bar configured (width: 2560, height: 30) for output: DP-1
+[2025-09-29 21:28:41.115] [info] Bar configured (width: 1360, height: 30) for output: DP-3
